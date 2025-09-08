@@ -1,0 +1,3 @@
+<!-- This file allows you to specify patterns for files and directories that Gemini CLI tools should exclude from their operations. -->
+
+.gitignore

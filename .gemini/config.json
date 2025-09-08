@@ -1,0 +1,4 @@
+{
+  "mcpServers": {},
+  "allow_commands": ["ls", "echo", "pwd"]
+}
